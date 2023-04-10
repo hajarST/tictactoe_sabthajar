@@ -5,14 +5,14 @@
 }
 
 :root {
-  --color-bg-dark: #192a33;
-  --color-bg-light: #1f3640;
-  --color-gray: #30be25;
-  --color-gray-dark: #30be25;
+  --color-bg-dark: #e2e9ec;
+  --color-bg-light: #020d11;
+  --color-gray: #400ef5b2;
+  --color-gray-dark: #3c0de9;
   --color-yellow: #Be25b0;
   --color-yellow-dark: #Be25b0;
-  --color-blue: #25bebb;
-  --color-blue-dark: #25bebb;
+  --color-blue: #e91490;
+  --color-blue-dark: #053d3c;
 
 
   --shadow-y: 6px;
